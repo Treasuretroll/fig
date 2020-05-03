@@ -15,6 +15,8 @@
     "subCategory": "Environnement",
     "title": "The Matrix ",
     "year": "1999",
+    "value": "200674",
+    "reference": "197131",
     "image": "",
     "created_at": "2019-10-06T15:26:48.042Z",
     "updated_at": "2019-10-06T18:08:00.902Z"
@@ -24,6 +26,8 @@
     "subCategory": "Environnement",
     "title": "The Shawshank Redemption ",
     "year": "1984",
+    "value": "200674",
+    "reference": "197131",
     "image": "",
     "created_at": "2019-10-06T15:26:59.572Z",
     "updated_at": "2019-10-06T18:08:47.637Z"
