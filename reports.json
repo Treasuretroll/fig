@@ -1,5 +1,7 @@
 [{
     "id": 1,
+    "category": "Caractérisation",
+    "sub-category": "Environnement",
     "title": "Pulp Fiction",
     "year": "1994",
     "image": "",
@@ -7,6 +9,8 @@
     "updated_at": "2019-10-06T18:05:31.649Z"
 }, {
     "id": 2,
+    "category": "Caractérisation",
+    "sub-category": "Environnement",
     "title": "The Matrix ",
     "year": "1999",
     "image": "",
@@ -14,6 +18,8 @@
     "updated_at": "2019-10-06T18:08:00.902Z"
 }, {
     "id": 3,
+    "category": "Caractérisation",
+    "sub-category": "Environnement",
     "title": "The Shawshank Redemption ",
     "year": "1984",
     "image": "",
