@@ -1,0 +1,41 @@
+[
+    {
+        "id:" 1,
+        "category" : "Caractérisation",
+        "sub-category" : "Environnement",
+        "name": "Nombre d'étudiants",
+        "year": 2020,
+        "value": 200674,
+        "reference": 197131
+    },
+    {
+        "id:" 2,
+        "category" : "Caractérisation",
+        "sub-category" : "Environnement",
+        "name": "Nombre d'étudiants boursiers",
+        "year": 2020,
+        "value": 36528,
+        "reference": 34432
+    },
+    {
+        "id:" 3,
+        "category" : "Santé financière",
+        "sub-category": "Caractérisation",
+        "name": "Ressources propres",
+        "year": 2020,
+        "value": 14646695,
+        "reference": 14078842
+    },
+    {
+        "id:" 4,
+        "category" : "Santé financière",
+        "sub-category": "Caractérisation",
+        "name": "Dépenses de personnel",
+        "year": 2020,
+        "value":  5285761,
+        "reference": 4855202
+    }
+
+
+
+]
