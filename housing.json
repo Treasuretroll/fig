@@ -1,0 +1,19 @@
+[{
+    "id": 1,
+    "title": "ETPT",
+    "release": "2020",
+    "value": "665",
+    "reference": "692"
+}, {
+    "id": 2,
+    "title": "ETPT PA",
+    "release": "2020",
+    "value": "213",
+    "reference": "161"
+}, {
+    "id": 3,
+    "title": "ETPT PO",
+    "release": "2020",
+    "value": "442",
+    "reference": "531"
+}]
