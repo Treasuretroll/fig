@@ -22,4 +22,12 @@
     "year": "2020",
     "value": "200674",
     "reference": "197131"
+}, {
+    "id": 4,
+    "category": "Caractérisation",
+    "subCategory": "Moyens humains",
+    "title": "ETPT",
+    "year": "2020",
+    "value": "665",
+    "reference": "692"
 }]
