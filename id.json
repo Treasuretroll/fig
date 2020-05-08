@@ -2,12 +2,12 @@
     "id": 1,
     "title": "Nombre d'étudiants",
     "release": "2020",
-    "value": "665",
-    "reference": "692"
+    "value": "200674",
+    "reference": "197131"
 }, {
     "id": 2,
     "title": "Nombre d'étudiants boursiers",
     "release": "2020",
-    "value": "213",
-    "reference": "161"
+    "value": "36528",
+    "reference": "34432"
 }]
