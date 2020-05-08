@@ -1,0 +1,13 @@
+[{
+    "id": 1,
+    "title": "Nombre d'étudiants",
+    "release": "2020",
+    "value": "665",
+    "reference": "692"
+}, {
+    "id": 2,
+    "title": "Nombre d'étudiants boursiers",
+    "release": "2020",
+    "value": "213",
+    "reference": "161"
+}]
