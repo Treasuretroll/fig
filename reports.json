@@ -3,7 +3,7 @@
     "category": "Caractérisation",
     "subCategory": "Environnement",
     "title": "ETPT",
-    "year": "2020",
+    "release": "2020",
     "value": "200674",
     "reference": "197131"
 }, {
@@ -11,7 +11,7 @@
     "category": "Caractérisation",
     "subCategory": "Environnement",
     "title": "ETPT PA",
-    "year": "2020",
+    "release": "2020",
     "value": "200674",
     "reference": "197131"
 }, {
@@ -19,7 +19,7 @@
     "category": "Caractérisation",
     "subCategory": "Environnement",
     "title": "ETPT PO",
-    "year": "2020",
+    "release": "2020",
     "value": "200674",
     "reference": "197131"
 }, {
@@ -27,7 +27,7 @@
     "category": "Caractérisation",
     "subCategory": "Moyens humains",
     "title": "ETPT",
-    "year": "2020",
+    "release": "2020",
     "value": "665",
     "reference": "692"
 }]
