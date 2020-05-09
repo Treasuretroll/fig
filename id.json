@@ -14,18 +14,18 @@
     "id": 3,
     "title": "Nombre de résidences",
     "release": "2020",
-    "value": "36528",
-    "reference": "34432"
+    "value": "39",
+    "reference": "37"
 }, {
     "id": 4,
-    "title": "Nombre d'étudiants boursiers",
+    "title": "Nombre de lits",
     "release": "2020",
-    "value": "36528",
-    "reference": "34432"
+    "value": "9148",
+    "reference": "9148"
 }, {
     "id": 5,
-    "title": "Nombre d'étudiants boursiers",
+    "title": "Nombre de structures de restauration",
     "release": "2020",
-    "value": "36528",
-    "reference": "34432"
+    "value": "85",
+    "reference": "85"
 }]
