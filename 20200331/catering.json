@@ -1,0 +1,31 @@
+[{
+    "id": 1,
+    "title": "Nombre de structures",
+    "release": "2020",
+    "value": "85",
+    "reference": ""
+}, {
+    "id": 2,
+    "title": "Chiffre d'affaires",
+    "release": "2020",
+    "value": "",
+    "reference": ""
+}, {
+    "id": 3,
+    "title": "ETPT",
+    "release": "2020",
+    "value": "372",
+    "reference": ""
+}, {
+    "id": 3,
+    "title": "ETPT PA",
+    "release": "2020",
+    "value": "67",
+    "reference": ""
+}, {
+    "id": 3,
+    "title": "ETPT PO",
+    "release": "2020",
+    "value": "305",
+    "reference": ""
+}]

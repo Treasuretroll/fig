@@ -1,0 +1,31 @@
+[{
+    "id": 1,
+    "title": "Nombre d'étudiants",
+    "release": "2020",
+    "value": "200674",
+    "reference": "197131"
+}, {
+    "id": 2,
+    "title": "Nombre d'étudiants boursiers",
+    "release": "2020",
+    "value": "36528",
+    "reference": "34432"
+}, {
+    "id": 3,
+    "title": "Nombre de résidences",
+    "release": "2020",
+    "value": "39",
+    "reference": "37"
+}, {
+    "id": 4,
+    "title": "Nombre de lits",
+    "release": "2020",
+    "value": "9148",
+    "reference": "9148"
+}, {
+    "id": 5,
+    "title": "Nombre de structures de restauration",
+    "release": "2020",
+    "value": "85",
+    "reference": "85"
+}]
