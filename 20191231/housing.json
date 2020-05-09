@@ -1,31 +1,31 @@
 [{
     "id": 1,
-    "title": "Nombre de résidences",
-    "release": "2020",
+    "title": "Nombre de résidences fin 2019",
+    "release": "20191231",
     "value": "39",
     "reference": "37"
 }, {
     "id": 2,
     "title": "Nombre de lits",
-    "release": "2020",
+    "release": "20191231",
     "value": "9148",
     "reference": "9148"
 }, {
     "id": 3,
     "title": "ETPT",
-    "release": "2020",
+    "release": "20191231",
     "value": "176",
     "reference": "184"
 }, {
-    "id": 3,
+    "id": 4,
     "title": "ETPT PA",
-    "release": "2020",
+    "release": "20191231",
     "value": "39",
     "reference": "31"
 }, {
-    "id": 3,
+    "id": 5,
     "title": "ETPT PO",
-    "release": "2020",
+    "release": "20191231",
     "value": "137",
     "reference": "153"
 }]
