@@ -1,5 +1,5 @@
 ﻿{
-    "Caractérisation": [
+    "description": [
         {
             "entity": "CROUS VERSAILLES",
             "category": "Caractérisation",
@@ -502,7 +502,7 @@
             "referenceValueRaw": "5"
         }
     ],
-    "Santé financière": [
+    "health": [
         {
             "entity": "CROUS VERSAILLES",
             "category": "Santé financière",
@@ -1028,7 +1028,7 @@
             "variationRaw": "0"
         }
     ],
-    "Ressources humaines": [
+    "hr": [
         {
             "entity": "CROUS VERSAILLES",
             "category": "Ressources humaines",
@@ -1610,7 +1610,7 @@
             "variationRaw": "-1"
         }
     ],
-    "Hébergement": [
+    "housing": [
         {
             "entity": "CROUS VERSAILLES",
             "category": "Hébergement",
