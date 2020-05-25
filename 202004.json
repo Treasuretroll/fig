@@ -1,6 +1,7 @@
 ﻿{
-    "description" : [
+    "description": [
         {
+            "id": "1",
             "entity": "CROUS VERSAILLES",
             "category": "Caractérisation",
             "subCategory": "Environnement",
@@ -17,6 +18,7 @@
             "variationRaw": "2"
         },
         {
+            "id": "2",
             "entity": "CROUS VERSAILLES",
             "category": "Caractérisation",
             "subCategory": "Environnement",
@@ -33,6 +35,7 @@
             "variationRaw": "0"
         },
         {
+            "id": "3",
             "entity": "CROUS VERSAILLES",
             "category": "Caractérisation",
             "subCategory": "Environnement",
@@ -47,6 +50,7 @@
             "referenceValueRaw": "7.50"
         },
         {
+            "id": "4",
             "entity": "CROUS VERSAILLES",
             "category": "Caractérisation",
             "subCategory": "Environnement",
@@ -61,6 +65,7 @@
             "referenceValueRaw": "2"
         },
         {
+            "id": "5",
             "entity": "CROUS VERSAILLES",
             "category": "Caractérisation",
             "subCategory": "Environnement",
@@ -77,6 +82,7 @@
             "variationRaw": "6"
         },
         {
+            "id": "6",
             "entity": "CROUS VERSAILLES",
             "category": "Caractérisation",
             "subCategory": "Environnement",
@@ -93,6 +99,7 @@
             "variationRaw": "1"
         },
         {
+            "id": "7",
             "entity": "CROUS VERSAILLES",
             "category": "Caractérisation",
             "subCategory": "Environnement",
@@ -107,6 +114,7 @@
             "referenceValueRaw": "4.90"
         },
         {
+            "id": "8",
             "entity": "CROUS VERSAILLES",
             "category": "Caractérisation",
             "subCategory": "Environnement",
@@ -121,6 +129,7 @@
             "referenceValueRaw": "10"
         },
         {
+            "id": "9",
             "entity": "CROUS VERSAILLES",
             "category": "Caractérisation",
             "subCategory": "Environnement",
@@ -136,6 +145,7 @@
             "variationRaw": "1"
         },
         {
+            "id": "10",
             "entity": "CROUS VERSAILLES",
             "category": "Caractérisation",
             "subCategory": "Environnement",
@@ -151,6 +161,7 @@
             "variationRaw": "0"
         },
         {
+            "id": "11",
             "entity": "CROUS VERSAILLES",
             "category": "Caractérisation",
             "subCategory": "CA et budget",
@@ -167,6 +178,7 @@
             "variationRaw": "-15"
         },
         {
+            "id": "12",
             "entity": "CROUS VERSAILLES",
             "category": "Caractérisation",
             "subCategory": "CA et budget",
@@ -182,6 +194,7 @@
             "variationRaw": "15"
         },
         {
+            "id": "13",
             "entity": "CROUS VERSAILLES",
             "category": "Caractérisation",
             "subCategory": "CA et budget",
@@ -197,6 +210,7 @@
             "variationRaw": "-4"
         },
         {
+            "id": "14",
             "entity": "CROUS VERSAILLES",
             "category": "Caractérisation",
             "subCategory": "CA et budget",
@@ -212,6 +226,7 @@
             "variationRaw": "10"
         },
         {
+            "id": "15",
             "entity": "CROUS VERSAILLES",
             "category": "Caractérisation",
             "subCategory": "CA et budget",
@@ -227,6 +242,7 @@
             "variationRaw": "-36"
         },
         {
+            "id": "16",
             "entity": "CROUS VERSAILLES",
             "category": "Caractérisation",
             "subCategory": "CA et budget",
@@ -242,6 +258,7 @@
             "variationRaw": "3"
         },
         {
+            "id": "17",
             "entity": "CROUS VERSAILLES",
             "category": "Caractérisation",
             "subCategory": "CA et budget",
@@ -257,6 +274,7 @@
             "variationRaw": "-8"
         },
         {
+            "id": "18",
             "entity": "CROUS VERSAILLES",
             "category": "Caractérisation",
             "subCategory": "CA et budget",
@@ -273,6 +291,7 @@
             "variationRaw": "12"
         },
         {
+            "id": "19",
             "entity": "CROUS VERSAILLES",
             "category": "Caractérisation",
             "subCategory": "CA et budget",
@@ -288,6 +307,7 @@
             "variationRaw": "-52"
         },
         {
+            "id": "20",
             "entity": "CROUS VERSAILLES",
             "category": "Caractérisation",
             "subCategory": "CA et budget",
@@ -304,6 +324,7 @@
             "variationRaw": "17"
         },
         {
+            "id": "21",
             "entity": "CROUS VERSAILLES",
             "category": "Caractérisation",
             "subCategory": "CA et budget",
@@ -319,6 +340,7 @@
             "variationRaw": "-37"
         },
         {
+            "id": "22",
             "entity": "CROUS VERSAILLES",
             "category": "Caractérisation",
             "subCategory": "Offre",
@@ -334,6 +356,7 @@
             "variationRaw": "0"
         },
         {
+            "id": "23",
             "entity": "CROUS VERSAILLES",
             "category": "Caractérisation",
             "subCategory": "Offre",
@@ -350,6 +373,7 @@
             "variationRaw": "5"
         },
         {
+            "id": "24",
             "entity": "CROUS VERSAILLES",
             "category": "Caractérisation",
             "subCategory": "Offre",
@@ -366,6 +390,7 @@
             "variationRaw": "5"
         },
         {
+            "id": "25",
             "entity": "CROUS VERSAILLES",
             "category": "Caractérisation",
             "subCategory": "Offre",
@@ -381,6 +406,7 @@
             "variationRaw": "1"
         },
         {
+            "id": "26",
             "entity": "CROUS VERSAILLES",
             "category": "Caractérisation",
             "subCategory": "Offre",
@@ -396,6 +422,7 @@
             "variationRaw": "0"
         },
         {
+            "id": "27",
             "entity": "CROUS VERSAILLES",
             "category": "Caractérisation",
             "subCategory": "Offre",
@@ -412,6 +439,7 @@
             "variationRaw": "0"
         },
         {
+            "id": "28",
             "entity": "CROUS VERSAILLES",
             "category": "Caractérisation",
             "subCategory": "Offre",
@@ -427,6 +455,7 @@
             "variationRaw": "0"
         },
         {
+            "id": "29",
             "entity": "CROUS VERSAILLES",
             "category": "Caractérisation",
             "subCategory": "Offre",
@@ -442,6 +471,7 @@
             "variationRaw": "0"
         },
         {
+            "id": "30",
             "entity": "CROUS VERSAILLES",
             "category": "Caractérisation",
             "subCategory": "Moyens humains",
@@ -458,6 +488,7 @@
             "variationRaw": "-8"
         },
         {
+            "id": "31",
             "entity": "CROUS VERSAILLES",
             "category": "Caractérisation",
             "subCategory": "Moyens humains",
@@ -474,6 +505,7 @@
             "variationRaw": "-7"
         },
         {
+            "id": "32",
             "entity": "CROUS VERSAILLES",
             "category": "Caractérisation",
             "subCategory": "Moyens humains",
@@ -488,6 +520,7 @@
             "referenceValueRaw": "5.58"
         },
         {
+            "id": "33",
             "entity": "CROUS VERSAILLES",
             "category": "Caractérisation",
             "subCategory": "Moyens humains",
@@ -504,6 +537,7 @@
     ],
     "health": [
         {
+            "id": "1",
             "entity": "CROUS VERSAILLES",
             "category": "Santé financière",
             "subCategory": "Caractérisation",
@@ -520,6 +554,7 @@
             "variationRaw": "-17"
         },
         {
+            "id": "2",
             "entity": "CROUS VERSAILLES",
             "category": "Santé financière",
             "subCategory": "Caractérisation",
@@ -536,6 +571,7 @@
             "variationRaw": "0"
         },
         {
+            "id": "3",
             "entity": "CROUS VERSAILLES",
             "category": "Santé financière",
             "subCategory": "Caractérisation",
@@ -551,6 +587,7 @@
             "variationRaw": "0"
         },
         {
+            "id": "4",
             "entity": "CROUS VERSAILLES",
             "category": "Santé financière",
             "subCategory": "Caractérisation",
@@ -565,6 +602,7 @@
             "variationRaw": "0"
         },
         {
+            "id": "5",
             "entity": "CROUS VERSAILLES",
             "category": "Santé financière",
             "subCategory": "Caractérisation",
@@ -579,6 +617,7 @@
             "variationRaw": "0"
         },
         {
+            "id": "6",
             "entity": "CROUS VERSAILLES",
             "category": "Santé financière",
             "subCategory": "Caractérisation",
@@ -595,6 +634,7 @@
             "variationRaw": "-6"
         },
         {
+            "id": "7",
             "entity": "CROUS VERSAILLES",
             "category": "Santé financière",
             "subCategory": "Caractérisation",
@@ -610,6 +650,7 @@
             "variationRaw": "0"
         },
         {
+            "id": "8",
             "entity": "CROUS VERSAILLES",
             "category": "Santé financière",
             "subCategory": "Caractérisation",
@@ -625,6 +666,7 @@
             "variationRaw": "0"
         },
         {
+            "id": "9",
             "entity": "CROUS VERSAILLES",
             "category": "Santé financière",
             "subCategory": "Caractérisation",
@@ -641,6 +683,7 @@
             "variationRaw": "-34"
         },
         {
+            "id": "10",
             "entity": "CROUS VERSAILLES",
             "category": "Santé financière",
             "subCategory": "Caractérisation",
@@ -656,6 +699,7 @@
             "variationRaw": "0"
         },
         {
+            "id": "11",
             "entity": "CROUS VERSAILLES",
             "category": "Santé financière",
             "subCategory": "Caractérisation",
@@ -671,6 +715,7 @@
             "variationRaw": "0"
         },
         {
+            "id": "12",
             "entity": "CROUS VERSAILLES",
             "category": "Santé financière",
             "subCategory": "Caractérisation",
@@ -687,6 +732,7 @@
             "variationRaw": "-39"
         },
         {
+            "id": "13",
             "entity": "CROUS VERSAILLES",
             "category": "Santé financière",
             "subCategory": "Caractérisation",
@@ -702,6 +748,7 @@
             "variationRaw": "0"
         },
         {
+            "id": "14",
             "entity": "CROUS VERSAILLES",
             "category": "Santé financière",
             "subCategory": "Caractérisation",
@@ -717,6 +764,7 @@
             "variationRaw": "0"
         },
         {
+            "id": "15",
             "entity": "CROUS VERSAILLES",
             "category": "Santé financière",
             "subCategory": "Caractérisation",
@@ -728,6 +776,7 @@
             "variationRaw": "0"
         },
         {
+            "id": "16",
             "entity": "CROUS VERSAILLES",
             "category": "Santé financière",
             "subCategory": "Caractérisation",
@@ -743,6 +792,7 @@
             "variationRaw": "0"
         },
         {
+            "id": "17",
             "entity": "CROUS VERSAILLES",
             "category": "Santé financière",
             "subCategory": "Caractérisation",
@@ -759,6 +809,7 @@
             "variationRaw": "0"
         },
         {
+            "id": "18",
             "entity": "CROUS VERSAILLES",
             "category": "Santé financière",
             "subCategory": "Caractérisation",
@@ -774,6 +825,7 @@
             "variationRaw": "0"
         },
         {
+            "id": "19",
             "entity": "CROUS VERSAILLES",
             "category": "Santé financière",
             "subCategory": "Caractérisation",
@@ -789,6 +841,7 @@
             "variationRaw": "0"
         },
         {
+            "id": "20",
             "entity": "CROUS VERSAILLES",
             "category": "Santé financière",
             "subCategory": "Caractérisation",
@@ -804,6 +857,7 @@
             "variationRaw": "0"
         },
         {
+            "id": "21",
             "entity": "CROUS VERSAILLES",
             "category": "Santé financière",
             "subCategory": "Caractérisation",
@@ -819,6 +873,7 @@
             "variationRaw": "0"
         },
         {
+            "id": "22",
             "entity": "CROUS VERSAILLES",
             "category": "Santé financière",
             "subCategory": "Performance financière",
@@ -835,6 +890,7 @@
             "variationRaw": "321"
         },
         {
+            "id": "23",
             "entity": "CROUS VERSAILLES",
             "category": "Santé financière",
             "subCategory": "Performance financière",
@@ -850,6 +906,7 @@
             "variationRaw": "26"
         },
         {
+            "id": "24",
             "entity": "CROUS VERSAILLES",
             "category": "Santé financière",
             "subCategory": "Performance financière",
@@ -865,6 +922,7 @@
             "variationRaw": "0"
         },
         {
+            "id": "25",
             "entity": "CROUS VERSAILLES",
             "category": "Santé financière",
             "subCategory": "Performance financière",
@@ -880,6 +938,7 @@
             "variationRaw": "0"
         },
         {
+            "id": "26",
             "entity": "CROUS VERSAILLES",
             "category": "Santé financière",
             "subCategory": "Performance financière",
@@ -895,6 +954,7 @@
             "variationRaw": "8"
         },
         {
+            "id": "27",
             "entity": "CROUS VERSAILLES",
             "category": "Santé financière",
             "subCategory": "Performance financière",
@@ -910,6 +970,7 @@
             "variationRaw": "11"
         },
         {
+            "id": "28",
             "entity": "CROUS VERSAILLES",
             "category": "Santé financière",
             "subCategory": "Performance financière",
@@ -926,6 +987,7 @@
             "variationRaw": "311"
         },
         {
+            "id": "29",
             "entity": "CROUS VERSAILLES",
             "category": "Santé financière",
             "subCategory": "Performance financière",
@@ -941,6 +1003,7 @@
             "variationRaw": "375"
         },
         {
+            "id": "30",
             "entity": "CROUS VERSAILLES",
             "category": "Santé financière",
             "subCategory": "Performance financière",
@@ -957,6 +1020,7 @@
             "variationRaw": "0"
         },
         {
+            "id": "31",
             "entity": "CROUS VERSAILLES",
             "category": "Santé financière",
             "subCategory": "Performance financière",
@@ -973,6 +1037,7 @@
             "variationRaw": "0"
         },
         {
+            "id": "32",
             "entity": "CROUS VERSAILLES",
             "category": "Santé financière",
             "subCategory": "Performance financière",
@@ -989,6 +1054,7 @@
             "variationRaw": "0"
         },
         {
+            "id": "33",
             "entity": "CROUS VERSAILLES",
             "category": "Santé financière",
             "subCategory": "Performance financière",
@@ -1004,6 +1070,7 @@
             "variationRaw": "0"
         },
         {
+            "id": "34",
             "entity": "CROUS VERSAILLES",
             "category": "Santé financière",
             "subCategory": "Performance financière",
@@ -1015,6 +1082,7 @@
             "variationRaw": "0"
         },
         {
+            "id": "35",
             "entity": "CROUS VERSAILLES",
             "category": "Santé financière",
             "subCategory": "Performance financière",
@@ -1030,6 +1098,7 @@
     ],
     "hr": [
         {
+            "id": "1",
             "entity": "CROUS VERSAILLES",
             "category": "Ressources humaines",
             "subCategory": "Caractérisation",
@@ -1046,6 +1115,7 @@
             "variationRaw": "-8"
         },
         {
+            "id": "2",
             "entity": "CROUS VERSAILLES",
             "category": "Ressources humaines",
             "subCategory": "Caractérisation",
@@ -1061,6 +1131,7 @@
             "variationRaw": "3"
         },
         {
+            "id": "3",
             "entity": "CROUS VERSAILLES",
             "category": "Ressources humaines",
             "subCategory": "Caractérisation",
@@ -1076,6 +1147,7 @@
             "variationRaw": "11"
         },
         {
+            "id": "4",
             "entity": "CROUS VERSAILLES",
             "category": "Ressources humaines",
             "subCategory": "Caractérisation",
@@ -1091,6 +1163,7 @@
             "variationRaw": "0"
         },
         {
+            "id": "5",
             "entity": "CROUS VERSAILLES",
             "category": "Ressources humaines",
             "subCategory": "Caractérisation",
@@ -1106,6 +1179,7 @@
             "variationRaw": "-7"
         },
         {
+            "id": "6",
             "entity": "CROUS VERSAILLES",
             "category": "Ressources humaines",
             "subCategory": "Caractérisation",
@@ -1122,6 +1196,7 @@
             "variationRaw": "32"
         },
         {
+            "id": "7",
             "entity": "CROUS VERSAILLES",
             "category": "Ressources humaines",
             "subCategory": "Caractérisation",
@@ -1138,6 +1213,7 @@
             "variationRaw": "52"
         },
         {
+            "id": "8",
             "entity": "CROUS VERSAILLES",
             "category": "Ressources humaines",
             "subCategory": "Caractérisation",
@@ -1152,6 +1228,7 @@
             "referenceValueRaw": "5.22"
         },
         {
+            "id": "9",
             "entity": "CROUS VERSAILLES",
             "category": "Ressources humaines",
             "subCategory": "Caractérisation",
@@ -1166,6 +1243,7 @@
             "referenceValueRaw": "5"
         },
         {
+            "id": "10",
             "entity": "CROUS VERSAILLES",
             "category": "Ressources humaines",
             "subCategory": "Caractérisation",
@@ -1182,6 +1260,7 @@
             "variationRaw": "-20"
         },
         {
+            "id": "11",
             "entity": "CROUS VERSAILLES",
             "category": "Ressources humaines",
             "subCategory": "Caractérisation",
@@ -1198,6 +1277,7 @@
             "variationRaw": "-24"
         },
         {
+            "id": "12",
             "entity": "CROUS VERSAILLES",
             "category": "Ressources humaines",
             "subCategory": "Caractérisation",
@@ -1212,6 +1292,7 @@
             "referenceValueRaw": "5.78"
         },
         {
+            "id": "13",
             "entity": "CROUS VERSAILLES",
             "category": "Ressources humaines",
             "subCategory": "Caractérisation",
@@ -1226,6 +1307,7 @@
             "referenceValueRaw": "5"
         },
         {
+            "id": "14",
             "entity": "CROUS VERSAILLES",
             "category": "Ressources humaines",
             "subCategory": "Caractérisation",
@@ -1242,6 +1324,7 @@
             "variationRaw": "0"
         },
         {
+            "id": "15",
             "entity": "CROUS VERSAILLES",
             "category": "Ressources humaines",
             "subCategory": "Caractérisation",
@@ -1257,6 +1340,7 @@
             "variationRaw": "0"
         },
         {
+            "id": "16",
             "entity": "CROUS VERSAILLES",
             "category": "Ressources humaines",
             "subCategory": "Caractérisation",
@@ -1273,6 +1357,7 @@
             "variationRaw": "0"
         },
         {
+            "id": "17",
             "entity": "CROUS VERSAILLES",
             "category": "Ressources humaines",
             "subCategory": "Caractérisation",
@@ -1288,6 +1373,7 @@
             "variationRaw": "0"
         },
         {
+            "id": "18",
             "entity": "CROUS VERSAILLES",
             "category": "Ressources humaines",
             "subCategory": "Caractérisation",
@@ -1303,6 +1389,7 @@
             "variationRaw": "0"
         },
         {
+            "id": "19",
             "entity": "CROUS VERSAILLES",
             "category": "Ressources humaines",
             "subCategory": "Caractérisation",
@@ -1318,6 +1405,7 @@
             "variationRaw": "0"
         },
         {
+            "id": "20",
             "entity": "CROUS VERSAILLES",
             "category": "Ressources humaines",
             "subCategory": "Caractérisation",
@@ -1334,6 +1422,7 @@
             "variationRaw": "-6"
         },
         {
+            "id": "21",
             "entity": "CROUS VERSAILLES",
             "category": "Ressources humaines",
             "subCategory": "Caractérisation",
@@ -1349,6 +1438,7 @@
             "variationRaw": "12"
         },
         {
+            "id": "22",
             "entity": "CROUS VERSAILLES",
             "category": "Ressources humaines",
             "subCategory": "Caractérisation",
@@ -1364,6 +1454,7 @@
             "variationRaw": "59"
         },
         {
+            "id": "23",
             "entity": "CROUS VERSAILLES",
             "category": "Ressources humaines",
             "subCategory": "Caractérisation",
@@ -1379,6 +1470,7 @@
             "variationRaw": "16"
         },
         {
+            "id": "24",
             "entity": "CROUS VERSAILLES",
             "category": "Ressources humaines",
             "subCategory": "Caractérisation",
@@ -1394,6 +1486,7 @@
             "variationRaw": "0"
         },
         {
+            "id": "25",
             "entity": "CROUS VERSAILLES",
             "category": "Ressources humaines",
             "subCategory": "Caractérisation",
@@ -1409,6 +1502,7 @@
             "variationRaw": "0"
         },
         {
+            "id": "26",
             "entity": "CROUS VERSAILLES",
             "category": "Ressources humaines",
             "subCategory": "Gestion des risques RH",
@@ -1425,6 +1519,7 @@
             "variationRaw": "0"
         },
         {
+            "id": "27",
             "entity": "CROUS VERSAILLES",
             "category": "Ressources humaines",
             "subCategory": "Gestion des risques RH",
@@ -1441,6 +1536,7 @@
             "variationRaw": "0"
         },
         {
+            "id": "28",
             "entity": "CROUS VERSAILLES",
             "category": "Ressources humaines",
             "subCategory": "Gestion des risques RH",
@@ -1457,6 +1553,7 @@
             "variationRaw": "1"
         },
         {
+            "id": "29",
             "entity": "CROUS VERSAILLES",
             "category": "Ressources humaines",
             "subCategory": "Gestion des risques RH",
@@ -1473,6 +1570,7 @@
             "variationRaw": "0"
         },
         {
+            "id": "30",
             "entity": "CROUS VERSAILLES",
             "category": "Ressources humaines",
             "subCategory": "Gestion des risques RH",
@@ -1489,6 +1587,7 @@
             "variationRaw": "0"
         },
         {
+            "id": "31",
             "entity": "CROUS VERSAILLES",
             "category": "Ressources humaines",
             "subCategory": "Gestion des risques RH",
@@ -1505,6 +1604,7 @@
             "variationRaw": "0"
         },
         {
+            "id": "32",
             "entity": "CROUS VERSAILLES",
             "category": "Ressources humaines",
             "subCategory": "Gestion des risques RH",
@@ -1520,6 +1620,7 @@
             "variationRaw": "-74"
         },
         {
+            "id": "33",
             "entity": "CROUS VERSAILLES",
             "category": "Ressources humaines",
             "subCategory": "Gestion des risques RH",
@@ -1535,6 +1636,7 @@
             "variationRaw": "-45"
         },
         {
+            "id": "34",
             "entity": "CROUS VERSAILLES",
             "category": "Ressources humaines",
             "subCategory": "Gestion des risques RH",
@@ -1550,6 +1652,7 @@
             "variationRaw": "-1"
         },
         {
+            "id": "35",
             "entity": "CROUS VERSAILLES",
             "category": "Ressources humaines",
             "subCategory": "Gestion des risques RH",
@@ -1565,6 +1668,7 @@
             "variationRaw": "-2"
         },
         {
+            "id": "36",
             "entity": "CROUS VERSAILLES",
             "category": "Ressources humaines",
             "subCategory": "Gestion des risques RH",
@@ -1580,6 +1684,7 @@
             "variationRaw": "0"
         },
         {
+            "id": "37",
             "entity": "CROUS VERSAILLES",
             "category": "Ressources humaines",
             "subCategory": "Gestion des risques RH",
@@ -1595,6 +1700,7 @@
             "variationRaw": "0"
         },
         {
+            "id": "38",
             "entity": "CROUS VERSAILLES",
             "category": "Ressources humaines",
             "subCategory": "Gestion des risques RH",
@@ -1612,6 +1718,7 @@
     ],
     "housing": [
         {
+            "id": "1",
             "entity": "CROUS VERSAILLES",
             "category": "Hébergement",
             "subCategory": "Caractérisation",
@@ -1628,6 +1735,7 @@
             "variationRaw": "-4"
         },
         {
+            "id": "2",
             "entity": "CROUS VERSAILLES",
             "category": "Hébergement",
             "subCategory": "Caractérisation",
@@ -1644,6 +1752,7 @@
             "variationRaw": "-13"
         },
         {
+            "id": "3",
             "entity": "CROUS VERSAILLES",
             "category": "Hébergement",
             "subCategory": "Caractérisation",
@@ -1658,6 +1767,7 @@
             "referenceValueRaw": "6.07"
         },
         {
+            "id": "4",
             "entity": "CROUS VERSAILLES",
             "category": "Hébergement",
             "subCategory": "Caractérisation",
@@ -1672,6 +1782,7 @@
             "referenceValueRaw": "4"
         },
         {
+            "id": "5",
             "entity": "CROUS VERSAILLES",
             "category": "Hébergement",
             "subCategory": "Caractérisation",
@@ -1688,6 +1799,7 @@
             "variationRaw": "5"
         },
         {
+            "id": "6",
             "entity": "CROUS VERSAILLES",
             "category": "Hébergement",
             "subCategory": "Caractérisation",
@@ -1704,6 +1816,7 @@
             "variationRaw": "5"
         },
         {
+            "id": "7",
             "entity": "CROUS VERSAILLES",
             "category": "Hébergement",
             "subCategory": "Caractérisation",
@@ -1719,6 +1832,7 @@
             "variationRaw": "1"
         },
         {
+            "id": "8",
             "entity": "CROUS VERSAILLES",
             "category": "Hébergement",
             "subCategory": "Caractérisation",
@@ -1734,6 +1848,7 @@
             "variationRaw": "0"
         },
         {
+            "id": "9",
             "entity": "CROUS VERSAILLES",
             "category": "Hébergement",
             "subCategory": "Caractérisation",
@@ -1749,6 +1864,7 @@
             "variationRaw": "0"
         },
         {
+            "id": "10",
             "entity": "CROUS VERSAILLES",
             "category": "Hébergement",
             "subCategory": "Caractérisation",
@@ -1765,6 +1881,7 @@
             "variationRaw": "0"
         },
         {
+            "id": "11",
             "entity": "CROUS VERSAILLES",
             "category": "Hébergement",
             "subCategory": "Caractérisation",
@@ -1780,6 +1897,7 @@
             "variationRaw": "0"
         },
         {
+            "id": "12",
             "entity": "CROUS VERSAILLES",
             "category": "Hébergement",
             "subCategory": "Caractérisation",
@@ -1795,6 +1913,7 @@
             "variationRaw": "0"
         },
         {
+            "id": "13",
             "entity": "CROUS VERSAILLES",
             "category": "Hébergement",
             "subCategory": "Caractérisation",
@@ -1810,6 +1929,7 @@
             "variationRaw": "0"
         },
         {
+            "id": "14",
             "entity": "CROUS VERSAILLES",
             "category": "Hébergement",
             "subCategory": "Caractérisation",
@@ -1826,6 +1946,7 @@
             "variationRaw": "-5"
         },
         {
+            "id": "15",
             "entity": "CROUS VERSAILLES",
             "category": "Hébergement",
             "subCategory": "Caractérisation",
@@ -1842,6 +1963,7 @@
             "variationRaw": "22"
         },
         {
+            "id": "16",
             "entity": "CROUS VERSAILLES",
             "category": "Hébergement",
             "subCategory": "Caractérisation",
@@ -1858,6 +1980,7 @@
             "variationRaw": "-11"
         },
         {
+            "id": "17",
             "entity": "CROUS VERSAILLES",
             "category": "Hébergement",
             "subCategory": "Caractérisation",
@@ -1874,6 +1997,7 @@
             "variationRaw": "-7"
         },
         {
+            "id": "18",
             "entity": "CROUS VERSAILLES",
             "category": "Hébergement",
             "subCategory": "Performance",
@@ -1890,6 +2014,7 @@
             "variationRaw": "0"
         },
         {
+            "id": "19",
             "entity": "CROUS VERSAILLES",
             "category": "Hébergement",
             "subCategory": "Performance",
@@ -1906,6 +2031,7 @@
             "variationRaw": "0"
         },
         {
+            "id": "20",
             "entity": "CROUS VERSAILLES",
             "category": "Hébergement",
             "subCategory": "Performance",
@@ -1922,6 +2048,7 @@
             "variationRaw": "0"
         },
         {
+            "id": "21",
             "entity": "CROUS VERSAILLES",
             "category": "Hébergement",
             "subCategory": "Performance",
@@ -1938,6 +2065,7 @@
             "variationRaw": "0"
         },
         {
+            "id": "22",
             "entity": "CROUS VERSAILLES",
             "category": "Hébergement",
             "subCategory": "Performance",
@@ -1954,6 +2082,7 @@
             "variationRaw": "0"
         },
         {
+            "id": "23",
             "entity": "CROUS VERSAILLES",
             "category": "Hébergement",
             "subCategory": "Performance",
@@ -1970,6 +2099,7 @@
             "variationRaw": "0"
         },
         {
+            "id": "24",
             "entity": "CROUS VERSAILLES",
             "category": "Hébergement",
             "subCategory": "Performance",
@@ -1986,6 +2116,7 @@
             "variationRaw": "0"
         },
         {
+            "id": "25",
             "entity": "CROUS VERSAILLES",
             "category": "Hébergement",
             "subCategory": "Performance",
@@ -2001,6 +2132,7 @@
             "variationRaw": "-9"
         },
         {
+            "id": "26",
             "entity": "CROUS VERSAILLES",
             "category": "Hébergement",
             "subCategory": "Performance",
@@ -2016,6 +2148,7 @@
             "variationRaw": "1"
         },
         {
+            "id": "27",
             "entity": "CROUS VERSAILLES",
             "category": "Hébergement",
             "subCategory": "Performance",
@@ -2032,6 +2165,7 @@
             "variationRaw": "4"
         },
         {
+            "id": "28",
             "entity": "CROUS VERSAILLES",
             "category": "Hébergement",
             "subCategory": "Performance",
@@ -2048,8 +2182,9 @@
             "variationRaw": "-75"
         }
     ],
-    "Restauration": [
+    "catering": [
         {
+            "id": "1",
             "entity": "CROUS VERSAILLES",
             "category": "Restauration",
             "subCategory": "Caractérisation",
@@ -2066,6 +2201,7 @@
             "variationRaw": "-37"
         },
         {
+            "id": "2",
             "entity": "CROUS VERSAILLES",
             "category": "Restauration",
             "subCategory": "Caractérisation",
@@ -2082,6 +2218,7 @@
             "variationRaw": "-36"
         },
         {
+            "id": "3",
             "entity": "CROUS VERSAILLES",
             "category": "Restauration",
             "subCategory": "Caractérisation",
@@ -2096,6 +2233,7 @@
             "referenceValueRaw": "6.23"
         },
         {
+            "id": "4",
             "entity": "CROUS VERSAILLES",
             "category": "Restauration",
             "subCategory": "Caractérisation",
@@ -2110,6 +2248,7 @@
             "referenceValueRaw": "3"
         },
         {
+            "id": "5",
             "entity": "CROUS VERSAILLES",
             "category": "Restauration",
             "subCategory": "Caractérisation",
@@ -2125,6 +2264,7 @@
             "variationRaw": "-35"
         },
         {
+            "id": "6",
             "entity": "CROUS VERSAILLES",
             "category": "Restauration",
             "subCategory": "Caractérisation",
@@ -2140,6 +2280,7 @@
             "variationRaw": "-37"
         },
         {
+            "id": "7",
             "entity": "CROUS VERSAILLES",
             "category": "Restauration",
             "subCategory": "Caractérisation",
@@ -2156,6 +2297,7 @@
             "variationRaw": "0"
         },
         {
+            "id": "8",
             "entity": "CROUS VERSAILLES",
             "category": "Restauration",
             "subCategory": "Caractérisation",
@@ -2171,6 +2313,7 @@
             "variationRaw": "0"
         },
         {
+            "id": "9",
             "entity": "CROUS VERSAILLES",
             "category": "Restauration",
             "subCategory": "Caractérisation",
@@ -2186,6 +2329,7 @@
             "variationRaw": "0"
         },
         {
+            "id": "10",
             "entity": "CROUS VERSAILLES",
             "category": "Restauration",
             "subCategory": "Caractérisation",
@@ -2201,6 +2345,7 @@
             "variationRaw": "-39"
         },
         {
+            "id": "11",
             "entity": "CROUS VERSAILLES",
             "category": "Restauration",
             "subCategory": "Caractérisation",
@@ -2216,6 +2361,7 @@
             "variationRaw": "-26"
         },
         {
+            "id": "12",
             "entity": "CROUS VERSAILLES",
             "category": "Restauration",
             "subCategory": "Caractérisation",
@@ -2231,6 +2377,7 @@
             "variationRaw": "4"
         },
         {
+            "id": "13",
             "entity": "CROUS VERSAILLES",
             "category": "Restauration",
             "subCategory": "Caractérisation",
@@ -2246,6 +2393,7 @@
             "variationRaw": "-2"
         },
         {
+            "id": "14",
             "entity": "CROUS VERSAILLES",
             "category": "Restauration",
             "subCategory": "Caractérisation",
@@ -2261,6 +2409,7 @@
             "variationRaw": "1"
         },
         {
+            "id": "15",
             "entity": "CROUS VERSAILLES",
             "category": "Restauration",
             "subCategory": "Caractérisation",
@@ -2276,6 +2425,7 @@
             "variationRaw": "6"
         },
         {
+            "id": "16",
             "entity": "CROUS VERSAILLES",
             "category": "Restauration",
             "subCategory": "Caractérisation",
@@ -2291,6 +2441,7 @@
             "variationRaw": "-5"
         },
         {
+            "id": "17",
             "entity": "CROUS VERSAILLES",
             "category": "Restauration",
             "subCategory": "Caractérisation",
@@ -2306,6 +2457,7 @@
             "variationRaw": "-3"
         },
         {
+            "id": "18",
             "entity": "CROUS VERSAILLES",
             "category": "Restauration",
             "subCategory": "Caractérisation",
@@ -2322,6 +2474,7 @@
             "variationRaw": "-13"
         },
         {
+            "id": "19",
             "entity": "CROUS VERSAILLES",
             "category": "Restauration",
             "subCategory": "Caractérisation",
@@ -2338,6 +2491,7 @@
             "variationRaw": "123"
         },
         {
+            "id": "20",
             "entity": "CROUS VERSAILLES",
             "category": "Restauration",
             "subCategory": "Caractérisation",
@@ -2354,6 +2508,7 @@
             "variationRaw": "-24"
         },
         {
+            "id": "21",
             "entity": "CROUS VERSAILLES",
             "category": "Restauration",
             "subCategory": "Caractérisation",
@@ -2369,6 +2524,7 @@
             "variationRaw": "0"
         },
         {
+            "id": "22",
             "entity": "CROUS VERSAILLES",
             "category": "Restauration",
             "subCategory": "Caractérisation",
@@ -2384,6 +2540,7 @@
             "variationRaw": "0"
         },
         {
+            "id": "23",
             "entity": "CROUS VERSAILLES",
             "category": "Restauration",
             "subCategory": "Caractérisation",
@@ -2399,6 +2556,7 @@
             "variationRaw": "0"
         },
         {
+            "id": "24",
             "entity": "CROUS VERSAILLES",
             "category": "Restauration",
             "subCategory": "Caractérisation",
@@ -2415,6 +2573,7 @@
             "variationRaw": "-14"
         },
         {
+            "id": "25",
             "entity": "CROUS VERSAILLES",
             "category": "Restauration",
             "subCategory": "Performance",
@@ -2431,6 +2590,7 @@
             "variationRaw": "0"
         },
         {
+            "id": "26",
             "entity": "CROUS VERSAILLES",
             "category": "Restauration",
             "subCategory": "Performance",
@@ -2447,6 +2607,7 @@
             "variationRaw": "0"
         },
         {
+            "id": "27",
             "entity": "CROUS VERSAILLES",
             "category": "Restauration",
             "subCategory": "Performance",
@@ -2462,6 +2623,7 @@
             "variationRaw": "0"
         },
         {
+            "id": "28",
             "entity": "CROUS VERSAILLES",
             "category": "Restauration",
             "subCategory": "Performance",
@@ -2477,6 +2639,7 @@
             "variationRaw": "0"
         },
         {
+            "id": "29",
             "entity": "CROUS VERSAILLES",
             "category": "Restauration",
             "subCategory": "Performance",
@@ -2492,6 +2655,7 @@
             "variationRaw": "11"
         },
         {
+            "id": "30",
             "entity": "CROUS VERSAILLES",
             "category": "Restauration",
             "subCategory": "Performance",
@@ -2507,6 +2671,7 @@
             "variationRaw": "-1"
         },
         {
+            "id": "31",
             "entity": "CROUS VERSAILLES",
             "category": "Restauration",
             "subCategory": "Performance",
@@ -2522,6 +2687,7 @@
             "variationRaw": "1"
         },
         {
+            "id": "32",
             "entity": "CROUS VERSAILLES",
             "category": "Restauration",
             "subCategory": "Performance",
@@ -2537,6 +2703,7 @@
             "variationRaw": "0"
         },
         {
+            "id": "33",
             "entity": "CROUS VERSAILLES",
             "category": "Restauration",
             "subCategory": "Performance",
@@ -2552,6 +2719,7 @@
             "variationRaw": "1"
         },
         {
+            "id": "34",
             "entity": "CROUS VERSAILLES",
             "category": "Restauration",
             "subCategory": "Performance",
@@ -2567,6 +2735,7 @@
             "variationRaw": "0"
         },
         {
+            "id": "35",
             "entity": "CROUS VERSAILLES",
             "category": "Restauration",
             "subCategory": "Performance",
@@ -2582,6 +2751,7 @@
             "variationRaw": "-2"
         },
         {
+            "id": "36",
             "entity": "CROUS VERSAILLES",
             "category": "Restauration",
             "subCategory": "Performance",
@@ -2597,6 +2767,7 @@
             "variationRaw": "5"
         },
         {
+            "id": "37",
             "entity": "CROUS VERSAILLES",
             "category": "Restauration",
             "subCategory": "Performance",
@@ -2613,6 +2784,7 @@
             "variationRaw": "2"
         },
         {
+            "id": "38",
             "entity": "CROUS VERSAILLES",
             "category": "Restauration",
             "subCategory": "Performance",
@@ -2629,6 +2801,7 @@
             "variationRaw": "13"
         },
         {
+            "id": "39",
             "entity": "CROUS VERSAILLES",
             "category": "Restauration",
             "subCategory": "Performance",
@@ -2644,6 +2817,7 @@
             "variationRaw": "0"
         },
         {
+            "id": "40",
             "entity": "CROUS VERSAILLES",
             "category": "Restauration",
             "subCategory": "Performance",
@@ -2659,6 +2833,7 @@
             "variationRaw": "0"
         },
         {
+            "id": "41",
             "entity": "CROUS VERSAILLES",
             "category": "Restauration",
             "subCategory": "Performance",
@@ -2674,6 +2849,7 @@
             "variationRaw": "4"
         },
         {
+            "id": "42",
             "entity": "CROUS VERSAILLES",
             "category": "Restauration",
             "subCategory": "Performance",
@@ -2690,6 +2866,7 @@
             "variationRaw": "1"
         },
         {
+            "id": "43",
             "entity": "CROUS VERSAILLES",
             "category": "Restauration",
             "subCategory": "Performance",
@@ -2706,6 +2883,7 @@
             "variationRaw": "15"
         },
         {
+            "id": "44",
             "entity": "CROUS VERSAILLES",
             "category": "Restauration",
             "subCategory": "Performance",
@@ -2721,6 +2899,7 @@
             "variationRaw": "0"
         },
         {
+            "id": "45",
             "entity": "CROUS VERSAILLES",
             "category": "Restauration",
             "subCategory": "Performance",
@@ -2736,6 +2915,7 @@
             "variationRaw": "-1"
         },
         {
+            "id": "46",
             "entity": "CROUS VERSAILLES",
             "category": "Restauration",
             "subCategory": "Performance",
@@ -2751,6 +2931,7 @@
             "variationRaw": "-1"
         },
         {
+            "id": "47",
             "entity": "CROUS VERSAILLES",
             "category": "Restauration",
             "subCategory": "Performance",
@@ -2767,6 +2948,7 @@
             "variationRaw": "2"
         },
         {
+            "id": "48",
             "entity": "CROUS VERSAILLES",
             "category": "Restauration",
             "subCategory": "Performance",
@@ -2783,6 +2965,7 @@
             "variationRaw": "5"
         },
         {
+            "id": "49",
             "entity": "CROUS VERSAILLES",
             "category": "Restauration",
             "subCategory": "Performance",
@@ -2799,6 +2982,7 @@
             "variationRaw": "0"
         },
         {
+            "id": "50",
             "entity": "CROUS VERSAILLES",
             "category": "Restauration",
             "subCategory": "Performance",
@@ -2815,6 +2999,7 @@
             "variationRaw": "-7"
         },
         {
+            "id": "51",
             "entity": "CROUS VERSAILLES",
             "category": "Restauration",
             "subCategory": "Performance",
@@ -2830,6 +3015,7 @@
             "variationRaw": "1"
         },
         {
+            "id": "52",
             "entity": "CROUS VERSAILLES",
             "category": "Restauration",
             "subCategory": "Performance",
@@ -2845,6 +3031,7 @@
             "variationRaw": "-1"
         },
         {
+            "id": "53",
             "entity": "CROUS VERSAILLES",
             "category": "Restauration",
             "subCategory": "Performance",
