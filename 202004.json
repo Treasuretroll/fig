@@ -1077,7 +1077,10 @@
             "date": "202004",
             "indicatorCode": "B38",
             "indicatorLabel": "Délai de paiement",
+            "valueString": "0",
             "referenceLabel": "N-1",
+            "referenceValue": "0",
+            "referenceValueRaw": "0",
             "variation": "+%",
             "variationRaw": "0"
         },
@@ -1089,6 +1092,7 @@
             "date": "202004",
             "indicatorCode": "B38",
             "indicatorLabel": "Délai de paiement",
+            "valueString": "0",
             "referenceLabel": "M.N.",
             "referenceValue": "0",
             "referenceValueRaw": "0",
